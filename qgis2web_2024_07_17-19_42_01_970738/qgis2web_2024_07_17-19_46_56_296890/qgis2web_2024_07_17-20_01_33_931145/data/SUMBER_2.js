@@ -1,0 +1,19 @@
+var json_SUMBER_2 = {
+"type": "FeatureCollection",
+"name": "SUMBER_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMA": "SUMBER PUCUK", "VOLUME": "6 L\/D", "LATITUDE": "7°48'48.43\"S", "LONGITUDE": "111°38'8.85\"E", "LOKASI": "DS. WAGIR LOR, KEC. NGEBEL", "INFO": "SUMBER PUCUK (7°48'48.43\"S, 111°38'8.85\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.635787196091982, -7.813448332841877 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER GODOK", "VOLUME": "4 L\/D", "LATITUDE": "7°49'3.66\"S", "LONGITUDE": "111°37'46.24\"E", "LOKASI": null, "INFO": "SUMBER GODOK (7°49'3.66\"S, 111°37'46.24\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.629512225415937, -7.817682218755991 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER KRISIK", "VOLUME": "2 L\/D", "LATITUDE": "7°49'0.14\"S", "LONGITUDE": "111°37'35.74\"E", "LOKASI": "DS. WAGIR LOR, KEC. NGEBEL", "INFO": "SUMBER KRISIK (7°49'0.14\"S, 111°37'35.74\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.626576588912641, -7.816705582041203 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER SURODIPO", "VOLUME": "5 L\/D", "LATITUDE": "7°51'6.75\"S", "LONGITUDE": "111°37'17.00\"E", "LOKASI": "DS. WAYANG KEC. PULUNG", "INFO": "SUMBER SURODIPO (7°51'6.75\"S, 111°37'17.00\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.621387772823411, -7.851875001648971 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER INGAS - INGAS", "VOLUME": "3 L\/D", "LATITUDE": "7°51'29.21\"S", "LONGITUDE": "111°38'21.09\"E", "LOKASI": "DS. PLUNTURAN KEC. PULUNG", "INFO": "SUMBER INGAS - INGAS (7°51'29.21\"S, 111°38'21.09\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.639190550588367, -7.858113890586443 ] } },
+{ "type": "Feature", "properties": { "NAMA": "IPA MENDAK", "VOLUME": "20 L\/D", "LATITUDE": "7°51'42.45\"S", "LONGITUDE": "111°41'13.56\"E", "LOKASI": "KEC. PUDAK", "INFO": "IPA MENDAK ( 7°51'42.45\"S, 111°41'13.56\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.687095535690986, -7.861791673969112 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER BANJAREJO", "VOLUME": "5 L\/D", "LATITUDE": "7°52'48.14\"S", "LONGITUDE": "111°42'31.10\"E", "LOKASI": "DS. BANJAREJO, KEC. PUDAK", "INFO": "SUMBER BANJAREJO (7°52'48.14\"S, 111°42'31.10\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.708634424405176, -7.880038896437596 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUMBER DUNG LUWENG", "VOLUME": "3 L\/D", "LATITUDE": "8° 3'56.05\"S", "LONGITUDE": "111°24'20.01\"E", "LOKASI": "DS. SLAHUNG KEC. SLAHUNG", "INFO": "SUMBER DUNG LUWENG (8° 3'56.05\"S, 111°24'20.01\"E)" }, "geometry": { "type": "Point", "coordinates": [ 111.405549404315721, -8.06557390504847 ] } },
+{ "type": "Feature", "properties": { "NAMA": "SUNGAI MENDAK", "VOLUME": null, "LATITUDE": null, "LONGITUDE": null, "LOKASI": null, "INFO": "SUNGAI MENDAK ( -7.861286°, 111.687262°)" }, "geometry": null },
+{ "type": "Feature", "properties": { "NAMA": "Intake", "VOLUME": null, "LATITUDE": null, "LONGITUDE": null, "LOKASI": null, "INFO": "Intake ( -7.855488°, 111.691505° )" }, "geometry": { "type": "Point", "coordinates": [ 111.691506, -7.855482 ] } },
+{ "type": "Feature", "properties": { "NAMA": "GROUND RESERVOAR PULUNG", "VOLUME": null, "LATITUDE": null, "LONGITUDE": null, "LOKASI": "PULUNG", "INFO": null }, "geometry": { "type": "Point", "coordinates": [ 111.620564404250686, -7.876333820043449 ] } },
+{ "type": "Feature", "properties": { "NAMA": "GROUND RESERVOAR WOTAN", "VOLUME": null, "LATITUDE": null, "LONGITUDE": null, "LOKASI": "WOTAN PULUNG", "INFO": null }, "geometry": { "type": "Point", "coordinates": [ 111.619078782542061, -7.869213034985679 ] } }
+]
+}
